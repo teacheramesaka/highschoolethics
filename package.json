@@ -1,0 +1,23 @@
+{
+  "name": "highschoolethics",
+  "version": "1.0.0",
+  "description": "このページは、雨坂先生の授業の復習用資料掲載サイト、「高校公民倫理分野」のトップページです。  \r [授業動画の一覧はこちらになります。](LIST.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teacheramesaka/highschoolethics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teacheramesaka/highschoolethics/issues"
+  },
+  "homepage": "https://github.com/teacheramesaka/highschoolethics#readme",
+  "devDependencies": {
+    "honkit": "^3.7.1"
+  }
+}
