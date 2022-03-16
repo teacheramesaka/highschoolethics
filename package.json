@@ -19,5 +19,9 @@
   "homepage": "https://github.com/teacheramesaka/highschoolethics#readme",
   "devDependencies": {
     "honkit": "^3.7.1"
+  },
+  "dependencies": {
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-page-treeview": "^3.0.6"
   }
 }
